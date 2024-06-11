@@ -1,0 +1,71 @@
+#mouseDiv{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    position: relative;
+}
+
+#coordinates{
+    position: absolute;
+    top:0;
+    left: 0;
+    background-color: white;
+    padding: 5px;
+}
+
+#colorDiv{
+    width: 250px;
+    height: 200px;
+    background-color: white;
+    border: 1px solid black;
+    /* margin-bottom: 2210px; */
+}
+
+#Red{
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+}
+
+#Green{
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+}
+
+#Pink{
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+}
+
+#Blue{
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+}
+
+#fontDiv {
+    width: 300px;
+    height: 100px;
+    background-color: lightgray;
+    font-size: 16px; 
+    border: 1px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+
+#content {
+    font-size: 16px; 
+}
+
+.button-container {
+    margin-top: 10px;
+}
+
+button {
+    margin-right: 5px;
+}
+
